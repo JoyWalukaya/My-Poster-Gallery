@@ -1,4 +1,4 @@
-🎨 My Posters Gallery  
+🎨  My Posters Gallery  
 
 Welcome to My Posters Gallery – a simple and visually appealing site where I showcase the posters I create! 🚀  
 
