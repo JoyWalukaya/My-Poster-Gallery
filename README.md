@@ -1,6 +1,6 @@
 🎨  My Posters Gallery  
 
-Welcome to My Posters Gallery – a simple and visually appealing site where I showcase the posters I create! 🚀  
+Welcome to My Posters Gallery – a simple and visually appealing site where I showcase the posters I create!  
 
 📌 About  
 This site dynamically displays all the posters I add to my collection. Every time I create a new poster, I simply upload it to the folder and run a Python script to update the gallery automatically.  
@@ -17,4 +17,4 @@ This site dynamically displays all the posters I add to my collection. Every tim
 3. The site updates automatically to display new posters 🎉  
 
 🔥  Live Demo  
-Check it out here: [Your Netlify Link]  
+Check it out here: https://joyspostergallery.netlify.app/  
